@@ -1,3 +1,4 @@
 <?php
 echo "Hello World";
-echo 101+101;
+echo "Welcome to the world of Programming";
+echo "This is PHP";
